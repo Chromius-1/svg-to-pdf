@@ -54,3 +54,5 @@ Run the converter with the following command:
 
 ```bash
 python svg_to_pdf_converter.py path/to/svg/files/in/zip/or/directory --pattern "\d+"
+```
+The `--pattern` parameter is designed to specify a regular expression for extracting the page number from the names of SVG files.
