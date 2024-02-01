@@ -33,7 +33,7 @@ Before processing, the files are completely written to memory and only then conv
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/chromius-1/svg-to-pdf-converter.git
+    git clone https://github.com/chromius-1/svg-to-pdf.git
     ```
 
 2. Change into the project directory:
